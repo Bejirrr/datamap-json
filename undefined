@@ -1,0 +1,129 @@
+{
+  "maps": [
+    {
+      "name": "MT HTS (WASD)",
+      "url": "https://raw.githubusercontent.com/Bejirrr/datamap-json/refs/heads/main/MOUNT_HTS.json",
+      "locked": false
+    },
+    {
+      "name": "MT Ayriene",
+      "url": "https://raw.githubusercontent.com/Bejirrr/datamap-json/refs/heads/main/Mount_Ayriene.json",
+      "locked": false
+    },
+    {
+      "name": "MT 666",
+      "url": "https://raw.githubusercontent.com/Bejirrr/datamap-json/refs/heads/main/Mount666.json",
+      "locked": false
+    },
+    {
+      "name": "MT Celestial",
+      "url": "https://raw.githubusercontent.com/Bejirrr/datamap-json/refs/heads/main/Mount_Celestial.json",
+      "locked": false
+    },
+    {
+      "name": "MT Arcana (Event Robux)",
+      "url": "https://raw.githubusercontent.com/Bejirrr/datamap-json/refs/heads/main/Mount_Arcana.json",
+      "locked": false
+    },
+    {
+      "name": "MT Velora",
+      "url": "https://rullzsyhub.web.id/json/mount_velora.json",
+      "locked": false
+    },
+    {
+      "name": "MT Moonlight",
+      "url": "https://raw.githubusercontent.com/Bejirrr/datamap-json/main/Mount_Moonlight.json",
+      "locked": false
+    },
+    {
+      "name": "MT NetizenV3",
+      "url": "https://raw.githubusercontent.com/Bejirrr/datamap-json/main/Mount_NetizenV3.json",
+      "locked": false
+    },
+    {
+      "name": "MT Clase",
+      "url": "https://raw.githubusercontent.com/Bejirrr/datamap-json/main/Mount_Clase.json",
+      "locked": false
+    },
+    {
+      "name": "MT Elystraa",
+      "url": "https://raw.githubusercontent.com/Bejirrr/datamap-json/main/Mount_Elystraa.json",
+      "locked": false
+    },
+    {
+      "name": "MT Wasabi",
+      "url": "https://raw.githubusercontent.com/Bejirrr/datamap-json/main/Mount_Wasabi.json",
+      "locked": false
+    },
+    {
+      "name": "MT Philocalist",
+      "url": "https://raw.githubusercontent.com/Bejirrr/datamap-json/main/Mount_Philocalist.json",
+      "locked": false
+    },
+    {
+      "name": "MT Frostlane",
+      "url": "https://raw.githubusercontent.com/Bejirrr/datamap-json/main/Mount_Ftostlane.json",
+      "locked": false
+    },
+    {
+      "name": "MT Outline",
+      "url": "https://raw.githubusercontent.com/Bejirrr/datamap-json/main/Mount_Outline.json",
+      "locked": false
+    },
+    {
+      "name": "MT Nautica",
+      "url": "https://raw.githubusercontent.com/Bejirrr/datamap-json/main/Mount_Nautica.json",
+      "locked": false
+    },
+    {
+      "name": "MT Aetheria WASD",
+      "url": "https://rullzsyhub.web.id/json/mount_aetheria_c2_wasd.json",
+      "locked": false
+    },
+    {
+      "name": "MT Age",
+      "url": "https://rullzsyhub.web.id/json/mount_age.json",
+      "locked": false
+    },
+    {
+      "name": "MT Axis WASD",
+      "url": "https://rullzsyhub.web.id/json/mount_axis_wasd.json",
+      "locked": false
+    },
+    {
+      "name": "MT Bjirlah WASD",
+      "url": "https://rullzsyhub.web.id/json/mount_bjirlah_wasd.json",
+      "locked": false
+    },
+    {
+      "name": "MT Nglunjak",
+      "url": "https://rullzsyhub.web.id/json/mount_ngelunjak.json",
+      "locked": false
+    },
+    {
+      "name": "MT Space X",
+      "url": "https://rullzsyhub.web.id/json/mount_space_x.json",
+      "locked": false
+    },
+    {
+      "name": "MT Yahayuk WASD",
+      "url": "https://rullzsyhub.web.id/json/mount_yahayuk_wasd.json",
+      "locked": false
+    },
+    {
+      "name": "MT Yayakin WASD",
+      "url": "https://rullzsyhub.web.id/json/mount_yayakin_wasd.json",
+      "locked": false
+    },
+    {
+      "name": "MT Elestrya",
+      "url": "https://raw.githubusercontent.com/Bejirrr/datamap-json/main/Mount_Elystra.json",
+      "locked": true
+    },
+    {
+      "name": "MT Elestrya",
+      "url": "https://raw.githubusercontent.com/Bejirrr/datamap-json/main/Mount_Elystra.json",
+      "locked": false
+    }
+  ]
+}
